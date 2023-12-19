@@ -1,6 +1,6 @@
-<p>
-  [Click here to see further notes and studies](studies.md)
-</p>
+<a href="studies">Click here to see further notes and studies</a>
+[Click here to see further notes and studies](studies.md)
+
 
 ## Portfolio
 
