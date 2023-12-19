@@ -1,11 +1,12 @@
 ## Portfolio
 
+[Click here to see further notes and studies](studies.md)
 ---
 
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br><br>
 [a relative link](sample_page.md)
 
 ---
