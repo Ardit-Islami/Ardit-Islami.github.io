@@ -1,4 +1,6 @@
-[Click here to see further notes and studies](studies.md)
+<p>
+  [Click here to see further notes and studies](studies.md)
+</p>
 
 ## Portfolio
 
