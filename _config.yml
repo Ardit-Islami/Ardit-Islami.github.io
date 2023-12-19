@@ -1,11 +1,8 @@
 title: Ardit Islami # your name (or website title) here
 logo: "images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Test Description #1 
   <br><br>
-  Test Description #2 
-  <br><br>
-  <a href="https://www.linkedin.com/in/arditislami/">View My LinkedIn Profile</a><br>
+  <a href="https://www.linkedin.com/in/arditislami/" style="font-size: 18px;">View My LinkedIn Profile</a>
   
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
