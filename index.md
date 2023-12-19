@@ -1,6 +1,4 @@
 <a href="studies">Click here to see further notes and studies</a>
-[Click here to see further notes and studies](studies.md)
-
 
 ## Portfolio
 
@@ -8,16 +6,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)<br>
+<a href="sample_page" style="font size: 20px; text-align: center;">Project 1 Title</a><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br><br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="sample_page" style="font size: 20px; text-align: center;">Project 2 Title</a><br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br><br>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="sample_page" style="font size: 20px; text-align: center;">Project 3 Title</a><br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br><br>
 
 ---
 
