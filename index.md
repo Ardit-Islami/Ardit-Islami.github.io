@@ -6,6 +6,7 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[a relative link](sample_page.md)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
