@@ -6,15 +6,21 @@
 
 ### Category Name 1 
 
-<a href="sample_page" style="font size: 20px; text-align: center;">Project 1 Title</a><br>
+<div style="text-align: center;">
+    <a href="sample_page" style="font size: 20px; text-align: center;">Project 1 Title</a><br>
+</div>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br><br>
 
 ---
-<a href="sample_page" style="font size: 20px; text-align: center;">Project 2 Title</a><br>
+<div style="text-align: center;">
+    <a href="sample_page" style="font size: 20px; text-align: center;">Project 2 Title</a><br>
+</div>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br><br>
 
 ---
-<a href="sample_page" style="font size: 20px; text-align: center;">Project 3 Title</a><br>
+<div style="text-align: center;">
+    <a href="sample_page" style="font size: 20px; text-align: center;">Project 3 Title</a><br>
+</div>
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br><br>
 
 ---
