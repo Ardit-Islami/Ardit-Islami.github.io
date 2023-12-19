@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Test Description #2 
   <br><br>
   <a href="https://www.linkedin.com/in/arditislami/">View My LinkedIn Profile</a><br>
-  [Blog Posts and Further Studies](studies.md)
+  <a href="studies.md">Blog Posts and Further Studies</a>
   
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
