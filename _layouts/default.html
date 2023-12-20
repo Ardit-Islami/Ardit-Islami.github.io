@@ -39,15 +39,15 @@
         <div id="title" style="display:flex;">
 
           <div style="display: flex; flex-direction: column; width: 40%;">
-            <div style="text-align: center;">
+            <div style="text-align: center; border: 1px white;">
           <h1 style="text-align: center;">{{ site.title | default: site.github.repository_name }}</h1>
             </div>
-            <div style="display: flex; justify-content: center; align-items: flex-end;">
+            <div style="display: flex; justify-content: center; align-items: flex-end; border: 1px white;">
           {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
           {% endif %}
             </div>
-            <div style="display: flex; justify-content: center; align-items: start;">
+            <div style="display: flex; justify-content: center; align-items: start; border: 1px white;">
               <p>{{ site.description | default: site.github.project_tagline }}</p>
             </div>
           </div>
