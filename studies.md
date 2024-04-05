@@ -3,7 +3,7 @@ This will have all my studies in Jupyter Notebook forms
 <details>
   <summary style="text-align: center; font-size: 2em;">Click to view my Python Projects</summary>
 
-  - <a href="https://github.com/Ardit-Islami/Time_Calculator" style="font-weight: bold; font-size: 16px; font-family: Georgia;">Project 1 - Time Calculator</a>
+  - <a href="https://github.com/Ardit-Islami/Time_Calculator" style="font-weight: bold; font-size: 1.5em; font-family: Georgia;">Project 1 - Time Calculator</a><br>
 
     <details>
       <summary>View GIF</summary>
@@ -11,8 +11,15 @@ This will have all my studies in Jupyter Notebook forms
         <img src="https://ardit-islami.github.io/images/timer_calculator.gif" width="500" height="300" />
       </p>
     </details>
+
+    <p style="font-size: 1em;">Challenges and Lessons Learnt</p>
+      <ul>
+        <li>Make sure to break down a given task into the simplest components possible and build upwards.</li>
+        <li>Always research cleaner ways to execute smaller ideas, for example using %60, %12 instead bloating code with if/else statements</li>
+        <li>Store your simplest components, so you cna easily access and edit down your procedurial chain.</li>
+      </ul>
     
-  - <a href="https://github.com/Ardit-Islami/Arithmetic_Formatter/">Project 2 - Arithmetic Formatter</a>
+  - <a href="https://github.com/Ardit-Islami/Arithmetic_Formatter/">Project 2 - Arithmetic Formatter</a><br>
 
     <details>
       <summary>View GIF</summary>
