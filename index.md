@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold; font-size: 3em; font-family: Georgia;">Portfolio</h1>
 
-<p>
-<a href="studies" align="centre" style="font-weight: bold; font-size: 1.5em; font-family: Georgia;">Click here to see further notes and studies</a>
+<p style= "text-align: center;">
+<a href="studies" style="font-weight: bold; font-size: 1.5em; font-family: Georgia; text-align: center;">Click here to see further projects and studies</a>
 </p>
 
 <h2 align="center" style="font-weight: bold; font-family: Georgia;">Main Projects</h2>
