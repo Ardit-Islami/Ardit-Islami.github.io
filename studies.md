@@ -8,7 +8,7 @@
       <p align="center">
         <img src="https://ardit-islami.github.io/images/timer_calculator.gif" width="500" height="300" />
       </p>
-    </details>
+    </details><br>
 
     <p style="font-size: 1em;">Challenges and Lessons Learnt</p>
       <ul>
@@ -24,7 +24,14 @@
       <p align="center">
         <img src="https://ardit-islami.github.io/images/Arithmetic_GIF.gif" width="500" height="300" />
       </p>
-    </details>
+    </details><br>
+
+    <p style="font-size: 1em;">Challenges and Lessons Learnt</p>
+      <ul>
+        <li>Try/Except is a powerful tool, especially so for error handling, but needs careful usage.</li>
+        <li>Formatting based on conditionals and making strings print a certain way to meet required criteria for the challenge proved quite tricky.</li>
+        <li>Be careful overusing conditional statements and bloating your code.</li>
+      </ul>
 
 </details>
 
