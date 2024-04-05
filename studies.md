@@ -1,9 +1,10 @@
 This will have all my studies in Jupyter Notebook forms
 
 <details>
-  <summary style="text-align: center; font-size: 2em;">Python Projects</summary>
+  <summary style="text-align: center; font-size: 2em;">Click to view my Python Projects</summary>
 
-  - <a href="https://github.com/Ardit-Islami/Time_Calculator">Project 1 - Time Calculator</a>
+  - <a href="https://github.com/Ardit-Islami/Time_Calculator" style="font-weight: bold; font-size: 16px; font-family: Georgia;">Project 1 - Time Calculator</a>
+
     <details>
       <summary>View GIF</summary>
       <p align="center">
@@ -12,6 +13,7 @@ This will have all my studies in Jupyter Notebook forms
     </details>
     
   - <a href="https://github.com/Ardit-Islami/Arithmetic_Formatter/">Project 2 - Arithmetic Formatter</a>
+
     <details>
       <summary>View GIF</summary>
       <p align="center">
@@ -22,7 +24,7 @@ This will have all my studies in Jupyter Notebook forms
 </details>
 
 <details>
-  <summary style="text-align: center; font-size: 2em;">Data Science Projects</summary>
+  <summary style="text-align: center; font-size: 2em;">Click to view my Data Science Projects</summary>
 
   <!-- Any additional notes or projects can go here -->
   - Project 1
@@ -30,7 +32,7 @@ This will have all my studies in Jupyter Notebook forms
 </details>
 
 <details>
-  <summary style="text-align: center; font-size: 2em;">Notes - Python and Data</summary>
+  <summary style="text-align: center; font-size: 2em;">Click to view my Notes - Python and Data</summary>
 
   <!-- Any additional notes or projects can go here -->
   - Note 1
