@@ -3,7 +3,7 @@ This will have all my studies in Jupyter Notebook forms
 <details>
   <summary style="text-align: center; font-size: 2em;">Python Projects</summary>
 
-  - [Project 1](https://github.com/Ardit-Islami/Time_Calculator)
+  - <a href="https://github.com/Ardit-Islami/Time_Calculator">Project 1 - Time Calculator</a>
     <details>
       <summary>View GIF</summary>
       <p align="center">
@@ -11,7 +11,7 @@ This will have all my studies in Jupyter Notebook forms
       </p>
     </details>
     
-  - [Project 2](https://github.com/Ardit-Islami/Arithmetic_Formatter/)
+  - <a href="https://github.com/Ardit-Islami/Arithmetic_Formatter/">Project 2 - Arithmetic Formatter</a>
     <details>
       <summary>View GIF</summary>
       <p align="center">
