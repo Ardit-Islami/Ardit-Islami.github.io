@@ -1,5 +1,3 @@
-This will have all my studies in Jupyter Notebook forms
-
 <details>
   <summary style="text-align: center; font-size: 2em;">Click to view my Python Projects</summary>
 
