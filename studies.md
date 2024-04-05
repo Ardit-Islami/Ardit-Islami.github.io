@@ -36,7 +36,7 @@
 </details>
 
 <details>
-  <summary style="text-align: center; font-size: 2em;">Click to view my Data Science Projects</summary>
+  <summary style="text-align: center; font-size: 2em;">Click to view my Data Projects</summary>
 
   <!-- Any additional notes or projects can go here -->
   - Project 1
