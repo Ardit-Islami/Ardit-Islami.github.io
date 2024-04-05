@@ -1,7 +1,7 @@
 ## Portfolio
 
 <p>
-&bull; <a href="studies">Click here to see further notes and studies</a>
+&bull; <a href="studies" style="font-weight: bold; font-size: 1.5em; font-family: Georgia;">Click here to see further notes and studies</a>
 </p>
 
 ---
