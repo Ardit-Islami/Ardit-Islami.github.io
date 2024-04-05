@@ -33,7 +33,7 @@
         <li>Be careful overusing conditional statements and bloating your code.</li>
       </ul>
 
-</details>
+</details><br><br>
 
 <details>
   <summary style="text-align: center; font-size: 2em;">Click to view my Data Projects</summary>
@@ -41,7 +41,7 @@
   <!-- Any additional notes or projects can go here -->
   - Project 1
   - Project 2
-</details>
+</details><br><br>
 
 <details>
   <summary style="text-align: center; font-size: 2em;">Click to view my Notes - Python and Data</summary>
