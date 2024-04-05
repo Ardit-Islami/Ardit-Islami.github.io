@@ -1,7 +1,7 @@
 <details>
   <summary style="text-align: center; font-size: 2em;">Click to view my Python Projects</summary>
 
-  - <a href="https://github.com/Ardit-Islami/Time_Calculator" style="font-weight: bold; font-size: 1.5em; font-family: Georgia;">Project 1 - Time Calculator</a><br>
+  - <a href="https://github.com/Ardit-Islami/Time_Calculator" target="_blank" style="font-weight: bold; font-size: 1.5em; font-family: Georgia;">Project 1 - Time Calculator</a><br>
 
     <details>
       <summary>View GIF</summary>
@@ -17,7 +17,7 @@
         <li>Store your simplest components, so you cna easily access and edit down your procedurial chain.</li>
       </ul>
     
-  - <a href="https://github.com/Ardit-Islami/Arithmetic_Formatter/">Project 2 - Arithmetic Formatter</a><br>
+  - <a href="https://github.com/Ardit-Islami/Arithmetic_Formatter/" target="_blank" style="font-weight: bold; font-size: 1.5em; font-family: Georgia;">Project 2 - Arithmetic Formatter</a><br>
 
     <details>
       <summary>View GIF</summary>
